@@ -1,0 +1,36 @@
+body {
+  font-family: "Rammetto One", cursive;
+}
+
+.edit-form {
+  margin-left: 1rem;
+  width: 50%;
+}
+
+.todo-app {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  background-color: #fafafa;
+}
+
+.todo-form {
+  margin: 1rem 0;
+  padding: 0 1rem;
+}
+
+.heading {
+  margin: auto !important;
+  font-family: "Rammetto One", cursive !important;
+  font-size: 2.2rem !important;
+  letter-spacing: 3px !important;
+  text-shadow: 2px 1px 2px black !important;
+}
+
+.themeColor {
+  color: #fe6b8b;
+}
+
+.completed {
+  text-decoration: line-through !important;
+}
