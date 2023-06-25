@@ -16,7 +16,7 @@
 ## Hooked Todo's <img src="https://raw.githubusercontent.com/dzenis-h/hookedTodos/master/public/favicon.ico" alt="HookedTodos logo" width="32" height="32" style="padding: 5px; vertical-align: middle;">
 
 ## Overview 👀
-HookedTodos is a simple todo app built with React Hooks and Context
+HookedTodos is a simple todo app built with React Hooks and Context API.
 
 ## Tech Stack 🛠️
 
